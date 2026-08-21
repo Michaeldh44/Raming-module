@@ -1,0 +1,10 @@
+{
+  "name": "zaanstad-ai-raming",
+  "version": "1.0.0",
+  "description": "AI-gestuurde ramingsmodule dakwerk met foto-analyse en TCO — Zaanstad Dakwerken",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
