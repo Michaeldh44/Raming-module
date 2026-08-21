@@ -4,5 +4,10 @@
     "api/analyse.js": {
       "maxDuration": 60
     }
-  }
+  },
+  "outputDirectory": "public",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
+  ]
 }
